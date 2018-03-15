@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "WerRoleAleatorios", "WerRoleAleatorios\WerRoleAleatorios.ccproj", "{6507766A-CDB1-4D9F-A2D0-33DD1780BE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{C3561919-A63E-437A-B722-BA5F84DA3300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6507766A-CDB1-4D9F-A2D0-33DD1780BE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6507766A-CDB1-4D9F-A2D0-33DD1780BE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6507766A-CDB1-4D9F-A2D0-33DD1780BE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6507766A-CDB1-4D9F-A2D0-33DD1780BE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3561919-A63E-437A-B722-BA5F84DA3300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3561919-A63E-437A-B722-BA5F84DA3300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3561919-A63E-437A-B722-BA5F84DA3300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3561919-A63E-437A-B722-BA5F84DA3300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ED6CEAB-A70B-439C-A129-83C05385ED2C}
+	EndGlobalSection
+EndGlobal
